@@ -42,7 +42,7 @@ class AI extends BaseAI {
    * @returns {string} - The name of your Player.
    */
   getName() {
-    return 'The Van Buren Boys'; // REPLACE THIS WITH YOUR TEAM NAME!
+    return 'The Van Buren Boyz'; // REPLACE THIS WITH YOUR TEAM NAME!
   }
 
   /**
